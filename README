@@ -1,0 +1,4 @@
+sim4.h contains all function and struct declarations.
+sim4.c handles decoding 32 bit instruction and performing operations.
+
+Code simulates MIPS single-cycle CPU and allows for most basic instructions (e.g beq, addi, etc...)
